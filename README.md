@@ -1,0 +1,1 @@
+Farsi nevis fonts are fonts that have persian glyphs for english characters. Such fonts are used for writing persian strings in programs that don't support RTL languages. This is a mono-space farsi nevis font forked from [Vazir Code](https://github.com/rastikerdar/vazir-code-font).
